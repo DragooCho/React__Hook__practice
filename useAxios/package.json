@@ -35,8 +35,7 @@
   "homepage": "https://github.com/DragooCho/React__Hook__practice#readme",
   "description": "@dragoo-hook/use-axios",
   "peerdependencies": {
-    "react": "^17.0.0",
-    "react-dom": "^17.0.0",
-    "react-scripts": "3.4.3"
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
   }
 }
